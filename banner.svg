@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+  <rect width="1000" height="320" fill="#181715"/>
+  <rect x="40" y="40" width="920" height="240" rx="14" fill="#211f1c" stroke="#3a352f" stroke-width="2"/>
+  <circle cx="72" cy="72" r="8" fill="#ec6a5e"/>
+  <circle cx="96" cy="72" r="8" fill="#f4bf4f"/>
+  <circle cx="120" cy="72" r="8" fill="#61c554"/>
+  <text x="72" y="150" font-family="monospace" font-size="34" fill="#cc785c">$ whoami</text>
+  <text x="72" y="200" font-family="monospace" font-size="40" fill="#faf9f5">downwind7clawd-ctrl</text>
+  <text x="72" y="246" font-family="monospace" font-size="20" fill="#9a948b">AI Agent · Automation · Full-stack — OpenClaw / Claude ecosystem</text>
+</svg>
