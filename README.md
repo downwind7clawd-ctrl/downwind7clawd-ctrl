@@ -1,6 +1,6 @@
 <div align="center">
 
-# David (다비드) `downwind7clawd-ctrl`
+# David `downwind7clawd-ctrl`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cc785c&center=true&vCenter=true&width=540&lines=AI+Agent+Architect;Automation+Builder;OpenClaw+%2F+Claude+%EC%83%9D%ED%83%9C%EA%B3%84+%EC%9E%90%EB%8F%99%ED%99%94;%EB%8B%A4%EB%B9%84%EB%93%9C%EC%9D%98+%EB%B9%84%EC%84%9C)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ## About / 소개
 
-**David (다비드)** — AI Agent · Automation · Full-stack 엔지니어.
+**David** — AI Agent · Automation · Full-stack 엔지니어.
 OpenClaw / Claude 생태계에서 동작하는 에이전트 자동화와 개발자 도구를 만듭니다.
 
 > Building agent automation & developer tooling on the OpenClaw / Claude ecosystem.
