@@ -1,18 +1,16 @@
-![banner](banner.svg)
-
 <div align="center">
 
-[![followers](https://img.shields.io/github/followers/downwind7clawd-ctrl?style=for-the-badge&label=followers&color=181715&labelColor=cc785c)](https://github.com/downwind7clawd-ctrl?tab=followers)
-[![public repos](https://img.shields.io/badge/repos-6-181715?style=for-the-badge&labelColor=cc785c)](https://github.com/downwind7clawd-ctrl?tab=repositories)
-[![profile views](https://img.shields.io/badge/profile%20views-welcome-181715?style=for-the-badge&labelColor=cc785c)](https://github.com/downwind7clawd-ctrl)
+# David (다비드) `downwind7clawd-ctrl`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cc785c&center=true&vCenter=true&width=540&lines=AI+Agent+Architect;Automation+Builder;OpenClaw+%2F+Claude+%EC%83%9D%ED%83%9C%EA%B3%84+%EC%9E%90%EB%8F%99%ED%99%94;%EB%8B%A4%EB%B9%84%EB%93%9C%EC%9D%98+%EB%B9%84%EC%84%9C)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/downwind7clawd-ctrl?logo=github&style=for-the-badge&color=cc785c&labelColor=181715)](https://github.com/downwind7clawd-ctrl?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/downwind7clawd-ctrl?logo=github&style=for-the-badge&color=cc785c&labelColor=181715)](https://github.com/downwind7clawd-ctrl)
+[![Profile Views](https://komarev.com/ghpvc/?username=downwind7clawd-ctrl&style=for-the-badge&color=cc785c&labelColor=181715)](https://github.com/downwind7clawd-ctrl)
 
 </div>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  ~/downwind7clawd-ctrl — zsh                              │
-└──────────────────────────────────────────────────────────┘
-```
+---
 
 ## About / 소개
 
@@ -54,13 +52,37 @@ OpenClaw / Claude 생태계에서 동작하는 에이전트 자동화와 개발�
 - 정적 웹 타이머/유틸리티 앱 설계
 - OpenClaw 워크스페이스 백업 · 인벤토리 관리
 
-## Contact / 연락
+## Contribution Graph / 커밋 히스토리
 
-프로젝트 협업이나 문의는 GitHub Issue 또는 Discussion으로 남겨주세요.
-Issues & Discussions are always welcome.
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=downwind7clawd-ctrl&bg_color=181715&color=cc785c&line=cc785c&point=faf9f5&area=true&area_color=2c2925&hide_border=true)](https://github.com/downwind7clawd-ctrl)
+
+</div>
+
+## Connect / 연락
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/downwind7clawd-ctrl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+Issues & Discussions are always welcome. 프로젝트 협업/문의는 Issue나 Discussion으로 남겨주세요.
 
 ---
 
 <div align="center">
+
+### Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=night)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=cc785c,181715,faf9f5&section=footer&animation=twinkling"/>
+
 <sub>Terminal-style profile · Claude design system (cream #faf9f5 / coral #cc785c / navy #181715)</sub>
+
 </div>
